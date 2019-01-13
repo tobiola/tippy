@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.githubusercontent.com/tobiola/tippy/master/images/demo.gif' title='Video Walkthrough' width='55px' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/tobiola/tippy/master/images/demo.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 ## Notes
 
